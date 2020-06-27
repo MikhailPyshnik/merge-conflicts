@@ -1,12 +1,6 @@
 # Degree
-# degree: ,
-  uni: Minsk State Pover College ,
-  year: 2008-20012 ,
-  # awards:
-  summary: Departments: Protective Relaying and Automation (technician).
-  
-  # degree: ,
-  uni: Belarusian National Technical University,
-  year: 2012-2018,
-  # awards:
-  summary: Faculty:Power Engineering. Departments:Industrial Power and Heat Engineering  (engineer). 
+- degree: Dot Net
+  uni: Epam
+  year: September, 2019 &mdash; Present
+  #awards:
+  summary: Developed C# application, online training, and in-person training covering various topics including HTML, CSS, MongoDb.
